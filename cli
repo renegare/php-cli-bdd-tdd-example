@@ -1,0 +1,7 @@
+#!/usr/bin/php
+<?php
+
+require_once 'vendor/autoload.php';
+
+$app = new \App\Console('Order Offer Processor', '0.0.1');
+$app->run();

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <products>
+        <product title="Rimmel Lasting Finish Lipstick 4g" price="4.99"></product>
+        <product title="Sebamed Anti-Dandruff Shampoo 200ml" price="4.99"></product>
+    </products>
+    <total>9.98</total>
+</order>
